@@ -23,3 +23,5 @@
 -   한 트랜잭션으로 하나의 애그리거트만 생성/수정.
 
 ## 목차
+
+-   [5.1 비즈니스 로직 구성 패턴](https://github.com/oereo/TIL/blob/main/MicroServicePattern/5.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EC%84%A4%EA%B3%84/5.1_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4_%EB%A1%9C%EC%A7%81_%EA%B5%AC%EC%84%B1_%ED%8C%A8%ED%84%B4.md)
