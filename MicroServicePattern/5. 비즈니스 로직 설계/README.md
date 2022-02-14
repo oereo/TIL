@@ -26,4 +26,10 @@
 
 -   [5.1 비즈니스 로직 구성 패턴](https://github.com/oereo/TIL/blob/main/MicroServicePattern/5.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EC%84%A4%EA%B3%84/5.1_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4_%EB%A1%9C%EC%A7%81_%EA%B5%AC%EC%84%B1_%ED%8C%A8%ED%84%B4.md)
 
--   [5.2 도메인 모델 설계: DDD 애그리거트 패턴]()
+-   [5.2 도메인 모델 설계: DDD 애그리거트 패턴](https://github.com/oereo/TIL/blob/main/MicroServicePattern/5.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EC%84%A4%EA%B3%84/5.2_%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%AA%A8%EB%8D%B8_%EC%84%A4%EA%B3%84:_DDD_%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B1%B0%ED%8A%B8_%ED%8C%A8%ED%84%B4.md)
+
+-   [5.3 도메인 이벤트 발행](https://github.com/oereo/TIL/blob/main/MicroServicePattern/5.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EC%84%A4%EA%B3%84/5.3_%EB%8F%84%EB%A9%94%EC%9D%B8_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EB%B0%9C%ED%96%89.md)
+
+-   [5.4 주방 서비스 비즈니스 로직](https://github.com/oereo/TIL/blob/main/MicroServicePattern/5.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EC%84%A4%EA%B3%84/5.4_%EC%A3%BC%EB%B0%A9_%EC%84%9C%EB%B9%84%EC%8A%A4_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4_%EB%A1%9C%EC%A7%81.md)
+
+-   [5.5 주문 서비스 비즈니스 로직](https://github.com/oereo/TIL/blob/main/MicroServicePattern/5.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EC%84%A4%EA%B3%84/5.5_%EC%A3%BC%EB%AC%B8_%EC%84%9C%EB%B9%84%EC%8A%A4_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4_%EB%A1%9C%EC%A7%81.md)
