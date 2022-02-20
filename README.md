@@ -17,6 +17,7 @@
 | 3장  | [프로세스 간 통신](https://github.com/oereo/TIL/tree/main/MicroServicePattern/3.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B0%84%20%ED%86%B5%EC%8B%A0)                                                 |
 | 4장  | [트랜잭션 관리: 사가](https://github.com/oereo/TIL/blob/main/MicroServicePattern/4.%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98_%EA%B4%80%EB%A6%AC:%EC%82%AC%EA%B0%80/README.md)                                  |
 | 5장  | [비즈니스 로직 설계](https://github.com/oereo/TIL/tree/main/MicroServicePattern/5.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EC%84%A4%EA%B3%84)                                      |
+| 6장  | [비즈니스 로직 개발: 이벤트 소싱]()                                                                                                                                                                       |
 
 <br />
 
