@@ -25,5 +25,6 @@
 
 -   [6.1 이벤트 소싱 응용 비즈니스 로직 개발](https://github.com/oereo/TIL/blob/main/MicroServicePattern/6.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EA%B0%9C%EB%B0%9C:%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%86%8C%EC%8B%B1/6.1_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EC%86%8C%EC%8B%B1_%EC%9D%91%EC%9A%A9_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4_%EB%A1%9C%EC%A7%81_%EA%B0%9C%EB%B0%9C.md)
 
--   [6.2 이벤트 저장소 구현]()
--   [6.3 사가와 이벤트 소싱을 접목]()
+-   [6.2 이벤트 저장소 구현](https://github.com/oereo/TIL/blob/main/MicroServicePattern/6.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EA%B0%9C%EB%B0%9C:%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%86%8C%EC%8B%B1/6.2_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EC%A0%80%EC%9E%A5%EC%86%8C_%EA%B5%AC%ED%98%84.md)
+
+-   [6.3 사가와 이벤트 소싱을 접목](https://github.com/oereo/TIL/blob/main/MicroServicePattern/6.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%20%EA%B0%9C%EB%B0%9C:%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%86%8C%EC%8B%B1/6.3_%EC%82%AC%EA%B0%80%EC%99%80_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EC%86%8C%EC%8B%B1%EC%9D%84_%EC%A0%91%EB%AA%A9.md)
