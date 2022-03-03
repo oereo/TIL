@@ -11,4 +11,6 @@
 
 ## 목차
 
--   [7.1 API 조합 패턴 응용 쿼리]()
+-   [7.1 API 조합 패턴 응용 쿼리](https://github.com/oereo/TIL/blob/main/MicroServicePattern/7.%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%BF%BC%EB%A6%AC%20%EA%B5%AC%ED%98%84/7.1_API_%EC%A1%B0%ED%95%A9_%ED%8C%A8%ED%84%B4_%EC%9D%91%EC%9A%A9_%EC%BF%BC%EB%A6%AC.md)
+
+-   [7.2 CQRS 패턴](https://github.com/oereo/TIL/blob/main/MicroServicePattern/7.%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%BF%BC%EB%A6%AC%20%EA%B5%AC%ED%98%84/7.2_CQRS_%ED%8C%A8%ED%84%B4.md)
