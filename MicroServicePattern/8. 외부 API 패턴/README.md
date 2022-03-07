@@ -8,4 +8,10 @@
 -   스프링 클라우드 게이트웨이 프레임워크를 기반으로 API 게이트웨이 설계/구현
 -   그래프 기반의 쿼리 언어를 제공하는 프레임워크인 GraphQL로 API 게이트웨이 구축
 
--   [8.1 외부 API 설계 이슈]()
+## 목차
+
+-   [8.1 외부 API 설계 이슈](https://github.com/oereo/TIL/blob/main/MicroServicePattern/8.%20%EC%99%B8%EB%B6%80%20API%20%ED%8C%A8%ED%84%B4/8.1_%EC%99%B8%EB%B6%80_API_%EC%84%A4%EA%B3%84_%EC%9D%B4%EC%8A%88.md)
+
+-   [8.2 API 게이트웨이 패턴](https://github.com/oereo/TIL/blob/main/MicroServicePattern/8.%20%EC%99%B8%EB%B6%80%20API%20%ED%8C%A8%ED%84%B4/8.2_API_%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4_%ED%8C%A8%ED%84%B4.md)
+
+-   [8.3 API 게이트웨이 구현](https://github.com/oereo/TIL/blob/main/MicroServicePattern/8.%20%EC%99%B8%EB%B6%80%20API%20%ED%8C%A8%ED%84%B4/8.3_API_%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4_%EA%B5%AC%ED%98%84.md)
